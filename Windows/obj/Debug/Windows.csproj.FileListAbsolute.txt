@@ -1,0 +1,11 @@
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\bin\Debug\Windows.exe.config
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.Form1.resources
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\bin\Debug\Windows.exe
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\bin\Debug\Windows.pdb
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.exe
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.pdb
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.Form2.resources
+C:\Users\skk\Desktop\作业\Windows应用开发\Windows\Windows\obj\Debug\Windows.Form3.resources
